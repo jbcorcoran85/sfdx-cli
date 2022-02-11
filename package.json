@@ -1,0 +1,22 @@
+{
+  "name": "sfdx-cli",
+  "version": "1.0.0",
+  "description": "A helper cli with a sfdx cli focus",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbcorcoran85/sfdx-cli.git"
+  },
+  "keywords": [
+    "sfdx-cli"
+  ],
+  "author": "jbcorcoran85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbcorcoran85/sfdx-cli/issues"
+  },
+  "homepage": "https://github.com/jbcorcoran85/sfdx-cli#readme"
+}
